@@ -2,7 +2,7 @@
 
 How to work with search results: filters, sorting, display settings, and hotel cards.
 
-> The search bar at the top of the results page is described in [1. Hotel Search](Hotels-Guide-1-Search#11-search-bar-on-the-results-page).
+> The search bar at the top of the results page is described in [1. Hotel Search](Hotels-Guide-1-Search.md#11-search-bar-on-the-results-page).
 
 ## Contents
 
@@ -264,4 +264,4 @@ Each hotel in the results is shown as a card. The left part shows hotel informat
 
 ---
 
-← [1. Hotel Search](Hotels-Guide-1-Search) | [Guide home](Hotels-Guide) | [3. Hotel Details](Hotels-Guide-3-Hotel-Details) →
+← [1. Hotel Search](Hotels-Guide-1-Search.md) | [Guide home](README.md) | [3. Hotel Details](Hotels-Guide-3-Hotel-Details.md) →

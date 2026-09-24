@@ -6,4 +6,4 @@ How to book a room: guest details, cancellation policy, payment, and confirmatio
 
 ---
 
-← [3. Hotel Details](Hotels-Guide-3-Hotel-Details) | [Guide home](Hotels-Guide)
+← [3. Hotel Details](Hotels-Guide-3-Hotel-Details.md) | [Guide home](README.md)

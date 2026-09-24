@@ -30,7 +30,7 @@ Fill in the fields and click **GO** to start the search. Every change to these f
 | **Nationality** | Guest's nationality. Prices and availability can vary by nationality, so it should match the guest's passport. | From your profile |
 | **Suppliers** | Limits the search to selected suppliers. If empty, all suppliers are searched. Visible only for specific branches. | Empty (all suppliers) |
 | **Display Exactly** | Searches only inside the boundaries (polygon) of the destination locality. Hotels outside the locality are not shown, even if they are within the radius. | Off |
-| **Free cancellation** | Returns only offers with free cancellation. Other offers are not loaded at all. To filter already loaded results instead, use the **Free** toggle in the toolbar (see [Quick Toggles](Hotels-Guide-2-Results#12-quick-toggles)). | Off |
+| **Free cancellation** | Returns only offers with free cancellation. Other offers are not loaded at all. To filter already loaded results instead, use the **Free** toggle in the toolbar (see [Quick Toggles](Hotels-Guide-2-Results.md#12-quick-toggles)). | Off |
 | **GO** | Runs the search. | — |
 
 ### 1.1 Search Bar on the Results Page
@@ -56,4 +56,4 @@ Click a card to run that search again.
 
 ---
 
-[Guide home](Hotels-Guide) | [2. Search Results](Hotels-Guide-2-Results) →
+[Guide home](README.md) | [2. Search Results](Hotels-Guide-2-Results.md) →

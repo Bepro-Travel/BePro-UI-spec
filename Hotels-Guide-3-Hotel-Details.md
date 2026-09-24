@@ -6,4 +6,4 @@ The hotel details page: hotel information, rooms, and room selection.
 
 ---
 
-← [2. Search Results](Hotels-Guide-2-Results) | [Guide home](Hotels-Guide) | [4. Booking](Hotels-Guide-4-Booking) →
+← [2. Search Results](Hotels-Guide-2-Results.md) | [Guide home](README.md) | [4. Booking](Hotels-Guide-4-Booking.md) →
